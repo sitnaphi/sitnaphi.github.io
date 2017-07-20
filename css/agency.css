@@ -111,7 +111,7 @@ fieldset[disabled] .btn-primary.active {
   padding: 20px 40px;
 }
 
-input.submit {
+input{
   color: white;
   background-color: #4C1E29;
   border-color: #4C1E29;
