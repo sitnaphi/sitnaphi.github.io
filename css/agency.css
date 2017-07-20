@@ -110,6 +110,18 @@ fieldset[disabled] .btn-primary.active {
   font-size: 18px;
   padding: 20px 40px;
 }
+
+input.submit {
+  color: white;
+  background-color: #4C1E29;
+  border-color: #4C1E29;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 3px;
+  font-size: 18px;
+  padding: 20px 40px;
+}
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
